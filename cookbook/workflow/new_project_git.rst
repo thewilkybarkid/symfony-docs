@@ -37,6 +37,8 @@ git repository:
         /app/logs/*
         /vendor/  
         /app/config/parameters.yml
+        /app/check.php
+        /app/SymfonyRequirements.php
 
 .. tip::
 
